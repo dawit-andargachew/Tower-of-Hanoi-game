@@ -107,11 +107,10 @@
 
 
 <br> <br> 
-## ✔ How to exit ... <hr>
+## ✔ How to exit ... <hr> <br>
 
     you can exit from the exit whenver you want by pressing 'e' or 'E'.
     
-  <br><br>
 
 <br><br><br>
 
