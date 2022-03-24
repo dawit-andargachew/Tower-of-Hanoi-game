@@ -107,12 +107,11 @@
 
 
 <br> <br> 
-## ✔ How to exit ... <hr> <br>
+## ✔ How to exit ... <hr>
 
     you can exit from the exit whenver you want by pressing 'e' or 'E'.
     
-
-<br><br><br>
+<br><br>
 
 ## I hope you enjoy the game
 # Thanks 
