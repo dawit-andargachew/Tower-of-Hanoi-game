@@ -115,4 +115,5 @@
 
 <br><br><br>
 
-# Thanks
+## I hope you enjoy the game
+# Thanks 
