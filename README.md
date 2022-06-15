@@ -39,7 +39,7 @@
 ## ✔ How to run the game<hr>
 <br> 
 
-   You can run the game by compiling [tower_of_haoi.cpp](linke.gitbub) in to executable file, 
+   You can run the game by compiling [tower_of_hanoi.cpp](linke.gitbub) in to executable file, 
 		 then double click .exe file the game will open.   
 <br>   
 ##if you don't have c++ complier you can get here##  
