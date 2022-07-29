@@ -42,7 +42,7 @@
    You can run the game by compiling [tower_of_hanoi.cpp](linke.gitbub) in to executable file, 
 		 then double click .exe file the game will open.   
 <br>   
-##if you don't have c++ complier you can get here##  
+### if you don't have c++ complier you can get here
 
 >>>> [MinGW - Minimalist GNU for Windows](https://sourceforge.net/projects/mingw/)       
 >>>> [MinGW - Minimalist GNU for Mac](https://ports.macports.org/port/mingw-w64/)  
@@ -113,5 +113,9 @@
     
 <br><br>
 
-## I hope you enjoy the game
+##  🙂 &nbsp; I hope you enjoy the game &nbsp; 🙂
+
+<br> <br>
+
+
 # Thanks 
